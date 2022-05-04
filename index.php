@@ -5,7 +5,7 @@
  * Description:       این افزونه ویدیو ها را از سایت های اشتراک گذاری ویدیو لود کرده و به صورت اسلایدر نمایش می دهد
  * Version:           3.16
  * Requires at least: 5.2
- * Requires PHP:      7.2
+ * Requires PHP:      7.4
  * Author:            هادی پوشه دار
  * Author URI:        http://ebtekareno.ir
  */
